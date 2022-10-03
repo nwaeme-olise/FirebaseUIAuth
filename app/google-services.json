@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846962540431",
+    "project_id": "fir-practice-app-beb68",
+    "storage_bucket": "fir-practice-app-beb68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846962540431:android:3aabe5c67e201e69d3d5fa",
+        "android_client_info": {
+          "package_name": "com.olisemeka.firebaseuiauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846962540431-gh6s5l54qmk3m957ud30svapn845h39h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_8mg4H912QFFxCvtl4ghLjzkdr-Ry1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846962540431-gh6s5l54qmk3m957ud30svapn845h39h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
